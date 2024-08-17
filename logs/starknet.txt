@@ -8026,3 +8026,4 @@
 {"reason":"No such key 'latitude' at path ''. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\").","error":true}
 {"error":true,"reason":"No such key 'latitude' at path ''. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\")."}
 {"error":true,"reason":"No such key 'latitude' at path ''. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\")."}
+{"error":true,"reason":"No such key 'latitude' at path ''. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\")."}
